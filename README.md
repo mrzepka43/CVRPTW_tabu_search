@@ -1,5 +1,5 @@
 # CVRPTW_tabu_search
-My approach to CVRPTW problem, solved using tabu search algorithm.
+My approach to CVRPTW problem, solved using tabu search algorithm. Code is written in C++.
 
 Program is using data stored in .txt file in Solomon's format:
 
